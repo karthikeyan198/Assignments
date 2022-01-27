@@ -7,7 +7,7 @@
 
 # 3. What are four main things we should know before studying data analysis?
   i) Learn Data Analytics Fundamentals.
-  ii) Work on Project to Develop your Data Analytics Skills
+  ii) Work on Project to Develop your Data Analytics Skills <br>
   iii) Develop Visualizations and Practice Presenting Them
   iv) Develop a Data Analyst Portfolio to showcase your work.
 
