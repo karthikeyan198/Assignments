@@ -1,7 +1,7 @@
 # 6. Most Common Characteristics used in descriptive statistics?
-  i) Graphical or Pictorial Methods
-  ii) Measures of Central Tendency
-  iii) Measure of Dispersion
+  i) Graphical or Pictorial Methods <br>
+  ii) Measures of Central Tendency <br>
+  iii) Measure of Dispersion <br>
   iv) Measure of Association
  
 # 7. What is quantitative and qualitative data?
