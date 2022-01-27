@@ -6,12 +6,10 @@
   Big data is data that contains greater variety arriving in increasing volumes and with more velocity.
 
 # 3. What are four main things we should know before studying data analysis?
-  <ol>
-  <l>Learn Data Analytics Fundamentals.</l>
-  <l>Work on Project to Develop your Data Analytics Skills</l>
-  <l>Develop Visualizations and Practice Presenting them.</l>  
-  <l>Develop a Data Analyst Portfolio to showcase your work.</l>
-  </ol>
+  i) Learn Data Analytics Fundamentals.<br>
+  ii) Work on Project to Develop your Data Analytics Skills<br>
+  iii) Develop Visualizations and Practice Presenting them.<br>  
+  iv) Develop a Data Analyst Portfolio to showcase your work.
 
 # 4. What is the difference between inferential statistics and descriptive statistics?
   Inferential Statistics: Focus on making predictions or generalizations about a larger dataset. <br>
