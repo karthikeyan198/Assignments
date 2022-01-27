@@ -8,7 +8,7 @@
 # 3. What are four main things we should know before studying data analysis?
   i) Learn Data Analytics Fundamentals.<br>
   ii) Work on Project to Develop your Data Analytics Skills<br>
-  iii) Develop Visualizations and Practice Presenting them.<br>  
+  iii) Develop Visualizations and Practice Presenting them.<br>
   iv) Develop a Data Analyst Portfolio to showcase your work.
 
 # 4. What is the difference between inferential statistics and descriptive statistics?
